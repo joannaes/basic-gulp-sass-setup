@@ -1,0 +1,21 @@
+{
+  "name": "basic-gulp-sass-setup",
+  "version": "0.1.0",
+  "description": "Prosty setup Gulpa, z wykorzystaniem Sassa i BrowserSync.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubaprzetakiewicz/basic-gulp-sass-setup.git"
+  },
+  "author": "Kuba Przetakiewicz",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kubaprzetakiewicz/basic-gulp-sass-setup/issues"
+  },
+  "homepage": "https://github.com/kubaprzetakiewicz/basic-gulp-sass-setup#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.0.0",
+    "gulp-sourcemaps": "^1.9.1"
+  }
+}
